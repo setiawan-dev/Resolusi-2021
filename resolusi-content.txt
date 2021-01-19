@@ -2,4 +2,6 @@ Rencana membuat Content kedepannya
 
 - Dasar Dasar PHP
 - PHP Framework
+  - CodeIgniter 4
 - Web Apps  
+  - Vue dan React Javascript
