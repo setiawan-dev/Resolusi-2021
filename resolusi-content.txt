@@ -6,4 +6,4 @@ Rencana membuat Content kedepannya
 - Web Apps 
   - Front-End Developer
   - React dan Vue
-
+  - Angular
