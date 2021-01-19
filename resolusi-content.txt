@@ -2,4 +2,6 @@ Rencana membuat Content kedepannya
 
 - Dasar Dasar PHP
 - PHP Framework
-- Web Apps  
+  - Laravel
+- Web Apps 
+  - Front-End Developer
