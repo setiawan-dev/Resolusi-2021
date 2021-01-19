@@ -5,3 +5,5 @@ Rencana membuat Content kedepannya
   - Laravel
 - Web Apps 
   - Front-End Developer
+  - React dan Vue
+
